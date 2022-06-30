@@ -1,4 +1,5 @@
 # Hearthstone Battlegrounds 
+## Clarity
 - **Artistic clarity**
 	- Intense artistic emphasis on finding a triple communicates its gameplay importance. The specific instances of this emphasis are:
 		- An up-arrow overlapping a creature in Bob's tavern, which indicates an available triple. An arrow is big and moving in its own rhythm, which makes it stand out even during fast paced series of tavern refreshes
@@ -8,6 +9,16 @@
 	- A unique special abilities of each hero are taking advantage of existing battlegrounds mechanics, and by doing so the game prompts to a player an idea of their possible winning strategies.
 - **Technical clarity**
 	- The modular gameplay, provided by a game phases, facilitates an implementation of a new depth-adding game features. Designers can take an already existing game's mechanics and put them in uncustomary game phases, thereby possibly adding a new dynamics in a game. One of the examples of the feature made in a such way is a *Start of combat* keyword.
+
+## One the Most Clear Thing
+- All actions available to the player are clear from the first glance, thanks for
+	- big action buttons with descriptive icons and short follow-up texts emphasising only what is important
+	-  green and blue glowing edges of elements giving a clue on what else player could do 
+
+## Possible Improvements 
+- The heroes like Cariel, Kurtus, Azshara, Ragnaros has a progression of ability mechanic. But it's not clear from ability descriptions of these heroes how exactly ability progresses.
+-  The order of triggering a deathrattle, start of combat and other special abilities is unclear
+- Gold pieces animations are buggy in almost every patch
 
 # The Banner Saga
 - **Artistic clarity**
@@ -19,7 +30,11 @@
 	  1. *It introduces a new players to the battle system's core loop*: choose position => make an action => repeat 
 	  2. *It breaks player's decision process in a smaller pieces*, which prevents the player from analysis paralysis 
 - **Technical clarity**
-	- An outcome of battle mechanics is unambiguous. All combatants are basically chess pieces with defined movement patterns and there is almost no chance involved in a damage calculation. My guess is that such predictability allows to build a more controlled AI behaviour, and it was easier for designers to orchestrate dramatic moments of player's tension and relaxation in an intended way.
+	- An outcomes of battle mechanics are unambiguous. All combatants are basically chess pieces with defined movement patterns and there is almost no chance involved in a damage calculation. My guess is that such predictability allows to build a more controlled AI behaviour, and it was easier for designers to orchestrate dramatic moments of player's tension and relaxation in an intended way.
+## Possible Improvements
+1. -
+2. -
+3. -
 
 
 # Catherine
@@ -35,3 +50,7 @@
 		* interactive text messages on a phone  
 - **Technical clarity**
 	- The ladder puzzle game idea is so elegant, that, despite being implemented as a real-time action game, it could be easily described in discrete terms of turn based game. Such atomicity has a huge value when it comes to prototyping and system formalization of the game.
+## Possible Improvements
+1. -
+2. -
+3. -
