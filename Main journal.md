@@ -39,11 +39,11 @@
 	- Renown is the currency for buying almost any other resources in the game
 
 ## Possible Improvements
-1. To emphasise the STR-health-attack correlation. 
+- To emphasise the STR-health-attack correlation. 
    It's the most basic and important rule of the game, that health and attack are both depended on STR stat, and when character losses its health it becomes weaker. 
    Although this rule is communicated through a text in the first tutorial battle, it would be nice to have a constant visual indication of this rule throughout the game. This way it would be easier to the player to get comfortable with this unique rule.
-2. Some dialog options are easy to misinterpret; the dialogue choices outcomes are not clear. 
-3. Rook's "Mark Prey" ability could show allies, who has a chosen target in range. 
+- Some dialog options are easy to misinterpret; the dialogue choices outcomes are not clear.
+- Rook's "Mark Prey" ability could show allies, who has a chosen target in range. 
 
 # Pillars of Eternity II: Deadfire
 ![](screenshots/poe.jpg)
@@ -72,10 +72,10 @@
 		- Lots of spells and statuses, which require player's conscious study to utilize them in the best possible way and find their ways around some challenging enemies
 
 ## Possible improvements 
-1. The information about the game's stats and status effects is scattered in spells and items description and character window. Although its a good de-emphasising tactic to protect the player from analysis paralysis, it wouldn't hurt to has all this knowledge written and clearly presented in one place in a systemised way. Like a TTRPG system rulebook, but for video game.
-2. Action status icons above a characters, like: "idle", "attacking", "casting a spell" are poorly emphasised. They are undistinguishable color-wise and their transaction is not catching player's attention. 
+- The information about the game's stats and status effects is scattered in spells and items description and character window. Although its a good de-emphasising tactic to protect the player from analysis paralysis, it wouldn't hurt to has all this knowledge written and clearly presented in one place in a systemised way. Like a TTRPG system rulebook, but for video game.
+- Action status icons above a characters, like: "idle", "attacking", "casting a spell" are poorly emphasised. They are undistinguishable color-wise and their transaction is not catching player's attention. 
    It's too easy to give one of your characters a command, shift your attention, while they making an action, and never get back to give another command. Such dynamic leads to a truly frustrating game experience when during a battle you realise, that one of your characters just did noting for like 30 seconds.
-3. There are bugs in the games. The game was harshly bugged on its release day, had lots of bug-fixing patches after release and even now players reports on some big game breaking bugs.
+- There are bugs in the games. The game was harshly bugged on its release day, had lots of bug-fixing patches after release and even now players reports on some big game breaking bugs.
 
 # Catherine
 ![](screenshots/catherine.jpg)
