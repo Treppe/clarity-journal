@@ -20,7 +20,7 @@
 - The heroes like Cariel, Kurtus, Azshara, Ragnaros has a progression of ability mechanic. But it's not clear from ability descriptions of these heroes how exactly ability progresses.
 
 # The Banner Saga
-![[saga.jpg]]
+![](screenshots/saga.jpg)
 - **Artistic clarity**
 	- When an enemy is in a simple attack range from active hero, the game puts a red token on this enemy. The range is calculated from current hero's position or from one of the new possible positions, which player may consider before committing their move action. A number inside the token indicates a strength damage the hero will cause by their simple attack to this enemy.
 	  This feature provides a player with a clarity on their current and possible status, and empowers a strategic dynamic of the game.
@@ -46,7 +46,7 @@
 3. Rook's "Mark Prey" ability could show allies, who has a chosen target in range. 
 
 # Pillars of Eternity II: Deadfire
-![[poe.jpg]]
+![](screenshots/poe.jpg)
 - **Artistic clarity**
 	-  Spell icons. Despite the small size of icons, they are very detailed and are clear at the same time. Each spell icon conveys a recognisable story, making it easy to guess an outcome of its casting.
 	- Attack range, AOE radiuses, engagement and flanking statuses are easy to see with contrast lines/arrows/surfaces. 
@@ -78,7 +78,7 @@
 3. There are bugs in the games. The game was harshly bugged on its release day, had lots of bug-fixing patches after release and even now players reports on some big game breaking bugs.
 
 # Catherine
-![[catherine.jpg]]
+![](screenshots/catherine.jpg)
 * ***Artistic clarity**
 	* "*EDGE!*". The game provides the most intense feedback on the most important game mechanic - edge connection. Each time edges are connected the player sees an exploding blue edge glow and the female narrators voice saying "Edge!". 
 	  A clarity in this aspect is one of the main reasons why this time restricted, puzzle solving game feels so smooth and addictive, despite its frustrating difficulty.
