@@ -1,5 +1,4 @@
 # Hearthstone Battlegrounds 
-## Clarity
 ![](screenshots/hs.jpg)
 - **Artistic clarity**
 	- Intense artistic emphasis on finding a triple communicates its gameplay importance. The specific instances of this emphasis are:
