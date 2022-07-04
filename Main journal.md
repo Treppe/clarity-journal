@@ -1,6 +1,6 @@
 # Hearthstone Battlegrounds 
 ## Clarity
-![](hs.jpg)
+![](screenshots/hs.jpg)
 - **Artistic clarity**
 	- Intense artistic emphasis on finding a triple communicates its gameplay importance. The specific instances of this emphasis are:
 		- An up-arrow overlapping a creature in Bob's tavern, which indicates an available triple. An arrow is big and moving in its own rhythm, which makes it stand out even during fast paced series of tavern refreshes
