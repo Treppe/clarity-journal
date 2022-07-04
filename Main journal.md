@@ -78,11 +78,11 @@
 
 # Catherine
 ![](screenshots/catherine.jpg)
-* ***Artistic clarity**
+* **Artistic clarity**
 	* "*EDGE!*". The game provides the most intense feedback on the most important game mechanic - edge connection. Each time edges are connected the player sees an exploding blue edge glow and the female narrators voice saying "Edge!". 
 	  A clarity in this aspect is one of the main reasons why this time restricted, puzzle solving game feels so smooth and addictive, despite its frustrating difficulty.
 	* A map of the level on the left side of the Nightmare screen provides a player an information on their progress
-* ***Design clarity**
+* **Design clarity**
 	*  The ladder-like level structure clearly communicates the level's goal: *reach the top of the ladder*; and states a short term goal: *find a way to  climb the next step*. 
 	* The game is not shy to communicate the player's goals status and threats through a text, because the text in a game is delivered to a player in an engaging ways:
 		* narrated tutorial pieces
