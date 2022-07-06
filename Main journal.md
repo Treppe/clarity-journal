@@ -1,5 +1,5 @@
 # Hearthstone Battlegrounds 
-![](hs.jpg)
+![](screenshots/hs.jpg)
 ## Clarity
 - **Artistic clarity**
 	- Intense artistic emphasis on finding a triple communicates its gameplay importance. The specific instances of this emphasis are:
@@ -31,7 +31,7 @@
 	- A feeling of power and dominance provided by heavy hits with strong creatures
 
 # The Banner Saga
-![](saga.jpg)
+![](screenshots/saga.jpg)
 
 ## Clarity
 - **Artistic clarity**
@@ -70,7 +70,7 @@
 	- A feeling of meaningful choices provided by heroes permanent death 
 
 # Pillars of Eternity II: Deadfire
-![](poe.jpg)
+![](screenshots/poe.jpg)
 ## Clarity
 - **Artistic clarity**
 	-  Spell icons. Despite the small size of icons, they are very detailed and are clear at the same time. Each spell icon conveys a recognisable story, making it easy to guess an outcome of its casting.
@@ -114,7 +114,7 @@
 	- A feeling of being a fantasy hero provided by game's worldbuilding
 
 # Catherine
-![](catherine.jpg)
+![](screenshots/catherine.jpg)
 ## Clarity
 * **Artistic clarity**
 	* "*EDGE!*". The game provides the most intense feedback on the most important game mechanic - edge connection. Each time edges are connected the player sees an exploding blue edge glow and the female narrators voice saying "Edge!". 
