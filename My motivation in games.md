@@ -4,11 +4,10 @@
 	- Pillars of Eternity I-II
 	- Divinity: Original Sin I-II
 	- Tyranny
-- **Gave me a feeling of agency**
-	- Sid Meier's Civilisation V-VI
 - **Catalysed self expression and exploration**
 	- D&D
 	- Disco Elysium 
+	- Civilisation V-VI
 - **Created a common experience with other people**
 	- D&D
 	- Minecraft
@@ -20,6 +19,7 @@
 	- Tabletop and party games
 - **Stress relief**
 	- Hearthstone
+	- Civilisation V-VI
 	- Pokémon games
 
 ## What are three examples of games that made you not care?
