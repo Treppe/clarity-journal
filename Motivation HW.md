@@ -60,7 +60,7 @@ Catherine | Replay nightmares to get higher score | Feeling of self exploration 
 ## Rewarding Different Players
 Game | Patient collectors reward for the risk | How do games make it more difficult for reckless rushers?
 ---|---|---
-Divinity: Original Sin 2 | Kill NPC to get experience to get new spells (new spells = more interesting choices); Explore a map to find a great gear | Feeling of being a fantasy hero provided by main and side quest; Feeling of fellowship provided by companions dialogues and side quests; The world of magic immersion provided by a spell based puzzles
+Divinity: Original Sin 2 | The court over sorcerer in Joy Island. It's a risky area with difficult enemies, and there is no story reason for player to be there. But if player arrives there, they see a dramatic execution scene and may get access for powerful items. | Feeling of being a fantasy hero provided by main and side quest; Feeling of fellowship provided by companions dialogues and side quests; The world of magic immersion provided by a spell based puzzles
 Disco Elysium | Get a new piece of the story by completing quests  |  Feeling of agency provided by branched story; Feeling of cosy depression provided by art and music
 Darkest Dungeon |  Explore dungeon to collect gold / trinkets for sale. Buy upgrades with gold |  Emergent narrative in dialogues between heroes with different quirks
 The Witness | Solve a puzzle to see an unlock animation; Learning new puzzle rule as a reward itself (?) | Feeling of inspiration and gratefulness provided by listening audio logs; Feeling of mystery provided by environment art and puzzle level design  
