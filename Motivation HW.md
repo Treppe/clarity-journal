@@ -75,8 +75,8 @@ Catherine |  If you spent time on coins collection during Nightmare, you can buy
 Game | Problem to fix | Motivation weak spot | Fixing tool | Details | Expected Improvement
 --- | --- | --- | ---  | --- | ---
 Divinity: Original Sin II | Player has to *read* about magical/physical armour blocking disability effects. Not easy to learn from combat itself. | Awareness | Feedback | Add a small VFX/SFX on event: *disability effect is blocked by armour*. E.g. "*cling*" sound and hero voiced line "it didn't work" for physical armour block. | Player learns armour mechanics faster 
-
-   
+The Banner Saga | *Reduced health = reduced damage* rule is not intuitive. Lack of emphasise leads to sloppy plays from a player. | Awareness, Danger | Feedback | Add voiced lines for heroes indicating their status. E.g. "Feeling weak!" line, when only half of health points left. Also add damage calculation formula in enemy description window. | The player learns the game rule: *Reduced health = reduced damage*
+Disco Elysium | Getting stuck: all white checks are failed and blocked and there is no way to gain additional points in challenged skills | Direction | Tuning, Strengths and Weaknesses(?) | Two ideas. *The first* is to add a list of unsolved (and maybe even not opened yet) white checks in the skill window. This way player, buying a new skill on new level, will be aware on how their progressing strategy lines up with developers expectations. *The second one* is to let the player actively fail the check. 
 
 
 
