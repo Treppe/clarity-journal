@@ -54,7 +54,7 @@ Elden Ring | Kill the bosses and explore the world to get new gear |  A feeling 
 Dorfromantic | Complete quests for longer play and bigger score | A feeling of visual satisfaction provided by biomes matching mechanics 
 HS Battlegrounds | Ladder ranking | A feeling of power and dominance provided by heavy hits with strong creatures
 The Banner Saga | Kill enemies to get renown | A feeling of meaningful choices provided by heroes permanent death feature
-Pillars of Eternity II | Worldbuilding | Discovery
-Catherine | Morality | Clarity
+Pillars of Eternity II |  Kill enemies to get new gear and money | A feeling of being a fantasy hero provided by game's worldbuilding
+Catherine | Replay nightmares to get higher score | A feeling of self exploration provided by the story and moral choices
 
 #motivation
