@@ -71,4 +71,10 @@ The Banner Saga | War options lets you to manage your caravan casualties by acce
 Pillars of Eternity II |  Subclasses penalty. More risk grants more power | Fighting a member of fraction makes you an enemy for all members of this fraction; Enemies and quests of higher level are marked as *hard*
 Catherine |  If you spent time on coins collection during Nightmare, you can buy special items; The harder your game mode the more score you gain | By moving the wrong blocks you can make the whole level unsolvable
 
+## Applying Motivational Concepts
+Game | Problem to fix | Motivation weak spot | Fixing tool | Details
+--- | --- | --- | ---  | ---
+Divinity: Original Sin II | Lack of feedback on combat event: *magical/physical armour blocking disability effect* | Awareness | Feedback | Add a small VFX/SFX on event. E.g. "*cling*" sound for physical armour block
+
+
 #motivation #reward 
