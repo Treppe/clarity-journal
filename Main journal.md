@@ -20,15 +20,27 @@
 - The heroes like Cariel, Kurtus, Azshara, Ragnaros has a progression of ability mechanic. But it's not clear from ability descriptions of these heroes how exactly ability progresses.
 
 ## Motivation
+### Care
 - **What made me care?**
 	- *Story-wise*
 		- Confrontation
 	- *Mechanic-wise*
 		- Inventiveness
+
+### Reward VS Experience
 - **Reward focused design**
 	- Ladder ranking
 - **Experience focused design**
 	- A feeling of power and dominance provided by heavy hits with strong creatures
+
+### Chris VS Ralph
+- **Patient collectors reward for the risk**
+	- Faster tavern upgrades may give you early access to powerful and limited high tier creatures 
+- **How do games make it more difficult for reckless rushers?**
+	- You want a variety of creatures in your warband and synergies, and you also want to collect triples. And the board space is limited.
+
+### Awareness and Relevancy
+- Add a line for Bob, which communicates to a player, that a player with bigger warband goes first
 
 # The Banner Saga
 ![](screenshots/saga.jpg)
@@ -59,15 +71,28 @@
 - Rook's "Mark Prey" ability could show allies, who has a chosen target in range. 
 
 ## Motivation 
+### Care
 - **What made me care?**
 	- *Story-wise*
 		- Setting
 	- *Mechanic-wise*
 		- Control
+
+### Reward VS Experience
 - **Reward focused design**
 	- Kill enemies to get renown 
 - **Experience focused design**
 	- A feeling of meaningful choices provided by heroes permanent death 
+### Chris VS Ralph
+- **Patient collectors reward for the risk**
+	- War options lets you to manage your caravan casualties by accepting or denying the battle. The harder challenge you accept the lower casualties you will have
+	- The second phase of the war. The "greedy" option allowing you to take unnecessary risk for more renown 
+- **How do games make it more difficult for reckless rushers?**
+	- You must choose dialogue options choose your battles wisely if don't want to lose your heroes
+
+### Awareness and Relevancy
+- Add in battle voiced lines for heroes, indicating their status. For example: "It hurts, feeling weak!" line to emphasise the dependence of they attack strength from their health 
+
 
 # Pillars of Eternity II: Deadfire
 ![](screenshots/poe.jpg)
@@ -103,16 +128,29 @@
 - There are bugs in the games. The game was harshly bugged on its release day, had lots of bug-fixing patches after release and even now players reports on some big game breaking bugs.
 
 ## Motivation 
+### Care
 - **What made me care?**
 	- *Story-wise* 
 		- Worldbuilding
 	- *Mechanic-wise*
 		- Self-expression 
+
+### Rewards VS Experience
 - **Reward focused design**
 	- Kill enemies to get new gear and money
 - **Experience focused design**
 	- A feeling of being a fantasy hero provided by game's worldbuilding
 
+### Chris VS Ralph
+- **Patient collectors reward for the risk**
+	- Subclass penalty. More risk grants more power
+- **How do games make it more difficult for reckless rushers?**
+	- Balancing enemies difficulty 
+	- Fighting a member of fraction makes you an enemy of all member in this fraction 
+
+### Awareness and Relevancy
+- Add animated masks on character portraits to indicate their status
+  
 # Catherine
 ![](screenshots/catherine.jpg)
 ## Clarity
@@ -142,8 +180,20 @@
 	- *Story-wise* 
 		- Morality
 	- *Mechanic-wise* 
-		- Skill
+		- Clarity
 - **Reward focused design**
 	- Score
 - **Experience focused design**
 	- A feeling of self exploration provided by the story and moral choices
+
+### Chris VS Ralph
+- **Patient collectors reward for the risk**
+	- If you spent time on coins collection during Nightmare, you can buy special items 
+	- The harder your game mode the more score you gain
+- **How do games make it more difficult for reckless rushers?**
+	- By moving the wrong block you can make the whole level unsolvable
+
+### Awareness and Relevancy
+- Not found yet
+
+#clarity #motivation #design_insparation #reward 
