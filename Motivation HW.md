@@ -33,7 +33,28 @@
 Game | Story | Mechanic
 ---|---|---
 Divinity: Original Sin 2 | Fantasy | Synergy
+Disco Elysium | Growth | Detective
+Darkest Dungeon | Madness | Overcoming
+The Witness | Mystery | Learning 
+Elden Ring | Epic | Mastering
+Dorfromantic | Emergent | Meditation
+HS Battlegrounds | Confrontation | Inventiveness
+The Banner Saga | Setting | Control
+Pillars of Eternity II | Worldbuilding | Discovery
+Catherine | Morality | Clarity
 
-
+## Elements of Reward & Experience Focused Design
+Game | Reward Focused | Experience Focused
+---|---|---
+Divinity: Original Sin 2 | Kill NPC to get experience to get new spells (new spells = more interesting choices); Explore a map to find a great gear | Feeling of being a fantasy hero provided by main and side quest; Feeling of fellowship provided by companions dialogues and side quests; The world of magic immersion provided by a spell based puzzles
+Disco Elysium | Get a new piece of the story by completing quests  |  A feeling of agency provided by branched story; A feeling of cosy depression provided by art and music
+Darkest Dungeon |  Explore dungeon to collect gold / trinkets for sale. Buy upgrades with gold |  Emergent narrative in dialogues between heroes with different quirks
+The Witness | Seeing an activation of puzzle powered mechanisms; Learning new puzzle rule as a reward itself (?) | A feeling of inspiration and gratefulness provided by listening audio logs; A feeling of mystery provided by environment art and puzzle level design  
+Elden Ring | Kill the bosses and explore the world to get new gear |  A feeling of the risk provided by runes system; A feeling of exploration provided by open world and in game encounters
+Dorfromantic | Complete quests for longer play and bigger score | A feeling of visual satisfaction provided by biomes matching mechanics 
+HS Battlegrounds | Ladder ranking | A feeling of power and dominance provided by heavy hits with strong creatures
+The Banner Saga | Kill enemies to get renown | A feeling of meaningful choices provided by heroes permanent death feature
+Pillars of Eternity II | Worldbuilding | Discovery
+Catherine | Morality | Clarity
 
 #motivation
