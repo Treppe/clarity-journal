@@ -68,7 +68,7 @@ Elden Ring | The only way to develop a tactic against bosses is by fighting them
 Dorfromantic | *not found* | The limited amount of tiles in main game mode 
 HS Battlegrounds | Faster tavern upgrades may give you early access to powerful and limited high tier creatures | Board size limitation slows high synergy warband building: you want a variety of creatures and synergies in your warband, but you also want to collect triples. Variety and triple collection are the opposite goals.
 The Banner Saga | War options lets you to manage your caravan casualties by accepting or denying the battle. The harder challenge you accept the lower casualties you will have; The second phase of the war is a "greedy" option allowing you to take unnecessary risk for more renown  | Player must choose dialogue options and choose their battles wisely if they don't want to lose their heroes
-Pillars of Eternity II |  Subclasses penalty. More risk grants more power | Fighting a member of fraction makes you an enemy for all members of this fraction; Enemies and quests of higher level are marked as *hard*
+Pillars of Eternity II |  Subclasses penalty. More risk grants more power | Fighting a member of fraction makes you an enemy for all members of this fraction; An enemies difficulty is tuned with an expected power level of the player. It's not easy for low level characters win high level ememies.
 Catherine |  If you spent time on coins collection during Nightmare, you can buy special items; The harder your game mode the more score you gain | By moving the wrong blocks you can make the whole level unsolvable
 
 ## Applying Motivational Concepts
