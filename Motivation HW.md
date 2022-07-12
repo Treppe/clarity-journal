@@ -57,4 +57,18 @@ The Banner Saga | Kill enemies to get renown | Feeling of meaningful choices pro
 Pillars of Eternity II |  Kill enemies to get new gear and money | Feeling of being a fantasy hero provided by game's worldbuilding
 Catherine | Replay nightmares to get higher score | Feeling of self exploration provided by the story and moral choices
 
-#motivation
+## Rewarding Different Players
+Game | Patient collectors reward for the risk | How do games make it more difficult for reckless rushers?
+---|---|---
+Divinity: Original Sin 2 | Kill NPC to get experience to get new spells (new spells = more interesting choices); Explore a map to find a great gear | Feeling of being a fantasy hero provided by main and side quest; Feeling of fellowship provided by companions dialogues and side quests; The world of magic immersion provided by a spell based puzzles
+Disco Elysium | Get a new piece of the story by completing quests  |  Feeling of agency provided by branched story; Feeling of cosy depression provided by art and music
+Darkest Dungeon |  Explore dungeon to collect gold / trinkets for sale. Buy upgrades with gold |  Emergent narrative in dialogues between heroes with different quirks
+The Witness | Solve a puzzle to see an unlock animation; Learning new puzzle rule as a reward itself (?) | Feeling of inspiration and gratefulness provided by listening audio logs; Feeling of mystery provided by environment art and puzzle level design  
+Elden Ring | Kill the bosses and explore the world to get new gear |  Feeling of the risk provided by runes system; Feeling of exploration provided by open world and in game encounters
+Dorfromantic | Complete quests for longer play and bigger score | Feeling of visual satisfaction provided by biomes matching mechanics 
+HS Battlegrounds | Win battles to climb ladder | Feeling of power and dominance provided by heavy hits with strong creatures
+The Banner Saga | Kill enemies to get renown | Feeling of meaningful choices provided by heroes permanent death feature
+Pillars of Eternity II |  Kill enemies to get new gear and money | Feeling of being a fantasy hero provided by game's worldbuilding
+Catherine | Replay nightmares to get higher score | Feeling of self exploration provided by the story and moral choices
+
+#motivation #reward 
