@@ -72,9 +72,13 @@ Pillars of Eternity II |  Subclasses penalty. More risk grants more power | Figh
 Catherine |  If you spent time on coins collection during Nightmare, you can buy special items; The harder your game mode the more score you gain | By moving the wrong blocks you can make the whole level unsolvable
 
 ## Applying Motivational Concepts
-Game | Problem to fix | Motivation weak spot | Fixing tool | Details
---- | --- | --- | ---  | ---
-Divinity: Original Sin II | Lack of feedback on combat event: *magical/physical armour blocking disability effect* | Awareness | Feedback | Add a small VFX/SFX on event. E.g. "*cling*" sound for physical armour block
+Game | Problem to fix | Motivation weak spot | Fixing tool | Details | Expected Improvement
+--- | --- | --- | ---  | --- | ---
+Divinity: Original Sin II | Player has to *read* about magical/physical armour blocking disability effects. Not easy to learn from combat itself. | Awareness | Feedback | Add a small VFX/SFX on event: *disability effect is blocked by armour*. E.g. "*cling*" sound and hero voiced line "it didn't work" for physical armour block. | Player learns armour mechanics faster 
+
+   
 
 
-#motivation #reward 
+
+
+#motivation #reward #feature_ideas
