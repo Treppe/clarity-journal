@@ -26,6 +26,6 @@ Response | Game | Situation | Tools | Outcomes | Decision tree
 3. **Update** your situation 
    - The ram stands on the back hooves and bleeps. The green gas emerges from its nose. It stands back on its four and a green circle of gas slowly grows around the ram. 
    - While ram performing this gas evaporating attack it also takes a defensive stance: taken damage is reduced
-   - Player reduces its speed when touched by gas. If gas touches the player for more then 2 seconds it makes player *petrified* and they can't move until take any damage or the ram dies. Any damage taken while petrified is doubled
-  - 4. **Create the player's decision tree*
-    ![](DecisionTrees/Ram.png)
+   - Player reduces its speed when touched by gas. If gas touches the player for more then 2 seconds it makes player *petrified* and they can't move until take any damage or the ram dies. Any damage taken while petrified is doubled 
+4. **Create the player's decision tree**
+  ![](DecisionTrees/Ram.png)
