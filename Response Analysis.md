@@ -2,7 +2,7 @@
 ## Analyzing existing games  
 Response | Game | Situation | Tools | Outcomes | Decision tree
 --- | --- | --- | --- | --- | ---
-**inactive emotional** | Psychonauts 2 | An interns teaming up with Ratz to complete the mission in casino | A player's attitude toward other interns | The game evokes in a player emotions of fun, surprise and gratitude | nan 
+**inactive emotional** | Psychonauts 2 | An interns teaming up with Ratz to complete the mission in casino | A player's attitude toward other interns | The game evokes in a player emotions of fun, surprise and fellowship | nan 
 **proactive twitch** | Transistor | Player applied *functions* and movement in *Turn()* mode | *Functions*, *Turn()* | The game responses with a fast series of action animations and executions, which player thoughtfully directed a moment ago | nan
 **reactive twitch** | The Witcher 3 | An enemy telegraphs its attack with animation | Parry, roll, dodge, traps, signs, ranged weapons | Player has a window of opportunity to utilize one of many combat tools they have and change the outcome of enemies attack | [link](DecisionTrees/DTree_TheWitcher3.png)  
 **proactive choice** | Skyrim | Round Door Puzzle | Previously found dragon claw | Player must put circle locks on a door in rights combination (make a series of choices) to pass through the door | [link](DecisionTrees/DTree_Skyrim.png) 
