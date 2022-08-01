@@ -42,6 +42,15 @@
 ### Awareness and Relevancy
 - Add a line for Bob, which communicates to a player, that a player with bigger warband goes first
 
+## Response
+### Mechanic Response Analysis 
+- **Illidan's *Wingmen* ability**
+	- Strategic
+		- Ilidan should choose positioning and creatures with synergistic abilities. Together these choices durring the game build a stratag
+		- Illidan's opponent strategies around attacking second/third
+	- Proactive
+		- Both Illidan and his opponent can influence outcome only before the batltle where Wingman is used
+
 # The Banner Saga
 ![](screenshots/saga.jpg)
 
@@ -92,7 +101,14 @@
 
 ### Awareness and Relevancy
 - Add in battle voiced lines for heroes, indicating their status. For example: "It hurts, feeling weak!" line to emphasise the dependence of they attack strength from their health 
-
+## Response
+### Mechanic Response Analysis 
+- ***Rest* ability**
+	- Choice
+		- Player chooses to rest over other possible actions
+	- Proactive and Inactive
+		- When player rests it's proactive, because the rest will not happen if player doesn't decide so
+		- When enemy rests it's reactive, because it just happens without any action from player
 
 # Pillars of Eternity II: Deadfire
 ![](screenshots/poe.jpg)
@@ -151,6 +167,9 @@
 ### Awareness and Relevancy
 - Add animated masks on character portraits to indicate their status
   
+## Response
+### Mechanic Response Analysis 
+
 # Catherine
 ![](screenshots/catherine.jpg)
 ## Clarity
@@ -196,4 +215,12 @@
 ### Awareness and Relevancy
 - Not found yet
 
+
+## Response
+### Mechanic Response Analysis 
+- **Phone Messages**
+	- Choice
+		- You pick only one of many options
+	- Proactive
+		- The result in morality shift is shown after choice is made
 #clarity #motivation #design_insparation #reward 

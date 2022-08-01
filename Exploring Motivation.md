@@ -1,4 +1,4 @@
-# Exploring Motivation 
+R# Exploring Motivation 
 ## What did games do that made me really care?
 - **Built worlds of fantasy where I can make meaningful choices and express myself**
 	- Pillars of Eternity I-II
