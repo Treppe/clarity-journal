@@ -1,6 +1,5 @@
 # Rewards Journal
 ## Overwatch 
----
 ### Rewards
  Event | Reward 
 ---- | ---
@@ -17,7 +16,6 @@ No members of the attacking team are present around the payload for 10 seconds |
 Bastion uses "Configuration: Sentry" ability | Bastion can't move
 
 ## Hearthstone 
----
 ### Rewards
 Event | Reward 
 --- | ---
@@ -33,7 +31,6 @@ An opponent has a taunt  minion on the board. Player tries to attack a minion ot
 Player plays a Mad Bomber creature card | Players suffers 3 damage from Mad Bomber's battlecry (bad luck)
 
 ## Darkest Dungeon 
----
 ### Rewards
 Event | Reward 
 --- | ---
@@ -49,7 +46,6 @@ Player explores dungeons/fights enemies with low light level |  Incoming stress 
 Player hits Willbur in a fight with Swine | Heroes are attacked with "Enraged Destruction" (high damage + stun)
 
 ## Minecraft
----
 ### Rewards 
 Event | Reward 
 --- | ---
@@ -65,7 +61,6 @@ Die | Loose items from your inventory and exp
 Get in agro range with an offensive mob (e.g. zombie) | Get chased and attacked by the mob
 
 ## Psychonauts 2
----
 ### Rewards
 Event | Reward 
 --- | ---
@@ -81,7 +76,6 @@ Entering forgetful forest second time before completing Ford's quests | Exit the
 Slow one of paired platforms and don't pass them, while it's slowed | Slowed platform is falling behind the paired one 
 
 ## Divinity: OS 2
----
 ### Rewards
 Event | Reward 
 --- | ---
@@ -97,7 +91,6 @@ Attack a fire slug with fire attack | Heal the slug
 Run on a field of ice | Slip  
 
 ## Disco Elysium
---- 
 ### Rewards
 Event | Reward 
 --- | ---
@@ -113,7 +106,6 @@ Refuse helping Evart | Never retrieve your gun
 Fail white check | Check is blocked, until next associated skill upgrade   
 
 ## Dying Light 
----
 ### Rewards
 Event | Reward 
 --- | ---
@@ -129,7 +121,6 @@ Clear the second airdrop area in the "Airdrop" quest | See a cut scene where Cra
 Make a loud noises (e.g. shoot from the rifle) | More infected are summoned to an area around the player 
 
 ## Elden Ring
----
 ### Rewards
 Event | Reward 
 --- | ---
@@ -175,7 +166,6 @@ Occupy the city | City has production and other resources penalties. Population 
 Move a catapult | The catapult can't attack this turn, unless its maximum Movement is 3 or more 
 
 ## The Witcher 3
----
 ### Rewards
 Event | Reward 
 --- | ---
@@ -191,7 +181,6 @@ Kill in combat the cursed werewolf in the garden | Werewolf reappears after some
 Free the Tree Spirit / Kill the Tree Spirit | Bad ending for Barron’s quest / Death of the children of the bog 
 
 ## Skyrim
----
 ### Rewards
 Event | Reward 
 --- | ---
@@ -211,7 +200,6 @@ Act mean or uncanny to some NPC (steal their goods from, repeatedly trespass the
 Use any dragon shout in front of a guard. | Guard speaks the line: "I need to ask you to stop. That... shouting... is making people nervous."
 
 ## The Elder Scrolls: Online
----
 ### Rewards
 Event | Reward 
 --- | ---
@@ -229,7 +217,6 @@ Taunt an enemy | Another player can’t taunt it for the next 15 seconds
 Get caught by the guard | Loose all stolen items 
 
 ## Fallout: New Vegas
----
 ### Rewards
 Event | Reward 
 --- | ---
@@ -246,7 +233,6 @@ Kill the quest giver | Fail their quest
 ”Arizona Killer” quest. Player alerts the crowd during president’s speech | The president is escorted away from the damage 
 
 ## Pillars of Eternity
----
 ### Rewards
 Event | Reward 
 --- | ---
@@ -263,7 +249,6 @@ Jump into the pit on  the Burial Isle | Start the endgame quest with no non-met
  Explore dangerous areas without scouting mode | Low vision radius + strategically placed enemies = battle starts at the same time as you see an enemy 
 
 ## Dragon Age: Origins
----
 ### Rewards
 Event | Reward 
 --- | ---
