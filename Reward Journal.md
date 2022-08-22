@@ -124,7 +124,7 @@ Make a loud noises (e.g. shoot from the rifle) | More infected are summoned to a
 ### Rewards
 Event | Reward 
 --- | ---
-Explore the world | Environment мшыгфд novelty 
+Explore the world | Environment visual novelty 
 Defeat the mandatory boss | Get access to explore further
 Parry enemies attacks | Make enemy vulnerable to critical attack
 
