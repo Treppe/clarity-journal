@@ -1,6 +1,6 @@
 # Overwatch 
 ## Rewards
- Event | Reward  
+ Event | Reward &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
 ---- | ---
 Dealing damage | Responsive VFX & SFX
 Deal the primary fire damage long enough with Endothermic Blaster playing Mei | Get target frozen 
@@ -19,8 +19,8 @@ No members of the attacking team are present around the payload for 10 seconds |
 Bastion uses "Configuration: Sentry" ability | Bastion can't move
 
 ## Custom punishment 
-**Event:** Break connection with Mercy's beam
-**Punishment:** A small "breaking the link" animation. Like hero was on the leash, torn it, and there was a little stop at the moment of a break 
+- **Event:** Break connection with Mercy's beam
+- **Punishment:** A small "breaking the link" animation. Like hero was on the leash, torn it, and there was a little stop at the moment of a break 
 
 # Hearthstone 
 ## Rewards
@@ -31,8 +31,8 @@ Build the deck around a complicated synergy. E.g. Worgen OTK warrior deck | Set 
 Play taunt minion | Secure yourself from board damage
 
 ## Custom reward 
-**Event:** Player has on the board lots of (4 or more) creatures of the same type
-**Reward:** This player's half of the board switches its skin in primary creature type theme. E.g. if there are 4-7 murlocs on the player's side of the board, the board turns into a pound of water
+- **Event:** Player has on the board lots of (4 or more) creatures of the same type
+- **Reward:** This player's half of the board switches its skin in primary creature type theme. E.g. if there are 4-7 murlocs on the player's side of the board, the board turns into a pound of water
 
 ## Punishments 
 Event | Punishment &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
@@ -42,8 +42,8 @@ An opponent has a taunt  minion on the board. Player tries to attack a minion ot
 Player plays a Mad Bomber creature card | Players suffers 3 damage from Mad Bomber's battlecry (bad luck)
 
 ## Custom punishments 
-**Event:** Consider a new weapon card with some powerful stats/ability (e.g. very high damage or ability to buff your board in a big way)
-**Punishment:** Weapon has a battle cry: freeze the player, playing the card
+- **Event:** Consider a new weapon card with some powerful stats/ability (e.g. very high damage or ability to buff your board in a big way)
+- **Punishment:** Weapon has a battle cry: freeze the player, playing the card
 
 # Darkest Dungeon
 ## Rewards
@@ -54,8 +54,8 @@ Keep your veteran heroes alive and stress free | Build up resolve level, which g
 Taking a rest in a Camp | Heroes are throwing phrases based on their personality
 
 ## Custom reward 
-**Event:** One of party members strikes a final blow at the boss of  a current location (Ruins, Warrens, Weald etc.)
-**Reward**: Reward this hero with "Favored Terrain" trait associated with the location, where the boss was killed. Next time this hero will explore their favored terrain, their group gains small additional buffs (e.g. minor stress resistance, better perception checks)
+- **Event:** One of party members strikes a final blow at the boss of  a current location (Ruins, Warrens, Weald etc.)
+- **Reward**: Reward this hero with "Favored Terrain" trait associated with the location, where the boss was killed. Next time this hero will explore their favored terrain, their group gains small additional buffs (e.g. minor stress resistance, better perception checks)
 
 ## Punishments 
 Event | Punishment &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
@@ -65,8 +65,8 @@ Player explores dungeons/fights enemies with low light level |  Incoming stress 
 Player hits Willbur in a fight with Swine | Heroes are attacked with "Enraged Destruction" (high damage + stun)
 
 ## Custom punishment
-**Event:** Deal the type of damage to enemy, which they are resistant to
-**Punishment**: The higher the resistance, the less responsive an enemies "got hit" animation
+- **Event:** Deal the type of damage to enemy, which they are resistant to
+- **Punishment**: The higher the resistance, the less responsive an enemies "got hit" animation
 
 # Minecraft
 ## Rewards 
@@ -77,8 +77,8 @@ Craft iron pickaxe | Mine diamonds
 Kill mob, destroy block/object | Get loot
 
 ## Custom reward
-**Event:** Kill a zombie villager wearing equipment
-**Reward**: The equipment looted from the zombie villager  has a villager's name tag on it (e.g. "Grag's iron sword")
+- **Event:** Kill a zombie villager wearing equipment
+- **Reward**: The equipment looted from the zombie villager  has a villager's name tag on it (e.g. "Grag's iron sword")
 
 ## Punishments 
 Event | Punishment &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
@@ -88,8 +88,8 @@ Die | Loose items from your inventory and exp
 Get in agro range with an offensive mob (e.g. zombie) | Get chased and attacked by the mob
 
 ## Custom punishment 
-**Event:** Trying to trade with villager during the raid
-**Punishment**: Villager refuses to trade
+- **Event:** Trying to trade with villager during the raid
+- **Punishment**: Villager refuses to trade
 
 # Psychonauts 2
 ## Rewards
@@ -100,8 +100,8 @@ Make a dish in time | Get a mystery box prize
 Explore levels | Discover collectibles
 
 ## Custom reward
-**Event:** Raz damages an enemy
-**Reward**: Some kind of distinctive SFX when damage is dealt. Currently the sound in the game telegraphs only a launch of attack/missile, without confirming a hit
+- **Event:** Raz damages an enemy
+- **Reward**: Some kind of distinctive SFX when damage is dealt. Currently the sound in the game telegraphs only a launch of attack/missile, without confirming a hit
 
 ## Punishments 
 Event | Punishment &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
@@ -111,8 +111,8 @@ Entering forgetful forest second time before completing Ford's quests | Exit the
 Slow one of paired platforms and don't pass them, while it's slowed | Slowed platform is falling behind the paired one 
 
 ## Custom punishment 
-**Event:** Trying to hit the roaches when you encounter them the first in Barber Ford mind level
-**Punishment**: Shame the player for attacking innocent creatures and give them a cue on shooting the button to turn on the nearby hair dryer
+- **Event:** Trying to hit the roaches when you encounter them the first in Barber Ford mind level
+- **Punishment**: Shame the player for attacking innocent creatures and give them a cue on shooting the button to turn on the nearby hair dryer
 
 # Divinity: OS 2
 ## Rewards
@@ -124,8 +124,8 @@ Kill an enemy, while having an "executioner" perk | Gain 2 action points
 Player is making decision where to land the spell | Striking and unique casting animation is playing 
 
 ## Custom reward
-**Event:** Consider a new quest for the game, where player must fight in an area with lots of ice surfaces. Player takes this quest
-**Reward**: A quest giver for this quest suggests to craft a nailed boots before going to this fight to avoid slipping and gives a recipe. Player learns about profits of crafting and nailed boots
+- **Event:** Consider a new quest for the game, where player must fight in an area with lots of ice surfaces. Player takes this quest
+- **Reward**: A quest giver for this quest suggests to craft a nailed boots before going to this fight to avoid slipping and gives a recipe. Player learns about profits of crafting and nailed boots
 
 ## Punishments 
 Event | Punishment &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
@@ -135,8 +135,8 @@ Attack a fire slug with fire attack | Heal the slug
 Run on a field of ice | Slip  
 
 ## Custom punishment
-**Event:** Respec your character using magic mirror
-**Punishment**: Prohibit respec option, until the character's next level up 
+- **Event:** Respec your character using magic mirror
+- **Punishment**: Prohibit respec option, until the character's next level up 
 
 # Disco Elysium
 ## Rewards
@@ -147,8 +147,8 @@ Arrive at Whirling-In-Rags | An upbeat and cozy "Whirling-In-Rags, 8am" soundtra
 Wait until day 3 | Open a new location, Rue de Saint-Brune and find your car and the badge
 
 ## Custom reward
-**Event:** Read all books in Martinaise
-**Reward**: Complete the collection quest, get EXP and get a special opportunity to respec your skills
+- **Event:** Read all books in Martinaise
+- **Reward**: Complete the collection quest, get EXP and get a special opportunity to respec your skills
 
 ## Punishments 
 Event | Punishment &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
@@ -158,8 +158,8 @@ Refuse helping Evart | Never retrieve your gun
 Fail white check | Check is blocked, until next associated skill upgrade   
 
 ## Custom punishment 
-**Event:** Aggressively bash the closed blue door in Whirling-In-Rags kitchen too many times
-**Punishment**: Get a negative reaction from undercover cops seating in the dinner room. They command you to calm down
+- **Event:** Aggressively bash the closed blue door in Whirling-In-Rags kitchen too many times
+- **Punishment**: Get a negative reaction from undercover cops seating in the dinner room. They command you to calm down
 
 # Dying Light 
 ## Rewards
@@ -170,8 +170,8 @@ Car trap | Draws nearby zombies before releasing a powerful electric pulse that 
 Do parkour | Get a realistic main character's human body response
 
 ## Custom reward
-**Event:** Hit infected with a ram attack
-**Reward:** Additional hand animation of pushing off the infected
+- **Event:** Hit infected with a ram attack
+- **Reward:** Additional hand animation of pushing off the infected
 
 ## Punishments 
 Event | Punishment &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
@@ -181,8 +181,8 @@ Clear the second airdrop area in the "Airdrop" quest | See a cut scene where Cra
 Make a loud noises (e.g. shoot from the rifle) | More infected are summoned to an area around the player 
 
 ## Custom punishment
-**Event:** Player doesn't close the door after clearing safe zone
-**Punishment:** Spawn new wave of infected
+- **Event:** Player doesn't close the door after clearing safe zone
+- **Punishment:** Spawn new wave of infected
 
 # Elden Ring
 ## Rewards
@@ -193,8 +193,8 @@ Defeat the mandatory boss | Get access to explore further
 Parry enemies attacks | Make enemy vulnerable to critical attack
 
 ## Custom reward
-**Event:** NPC leaves their spot after completed side quest 
-**Reward:** After the next rest a statue of an NPC appears on the same spot
+- **Event:** NPC leaves their spot after completed side quest 
+- **Reward:** After the next rest a statue of an NPC appears on the same spot
 
 ## Punishments
 Event | Punishment &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
@@ -204,8 +204,8 @@ Rest near lost grace | Respawn all non-boss enemies
 Wield heavier weapons | Longer attack animation 
 
 ## Custom punishment 
-**Event:** Equip new item
-**Punishment:** Throw an "equipping" SFX. The bigger player's overall equipment load becomes after adding new item, the heavier the sound effect.
+- **Event:** Equip new item
+- **Punishment:** Throw an "equipping" SFX. The bigger player's overall equipment load becomes after adding new item, the heavier the sound effect.
 
 # Dofromantic 
 ## Rewards
@@ -216,8 +216,8 @@ Fulfill quests | Gain tile. Opportunity to play this session longer
 Wider the fields area | Reach
 
 ## Custom reward
-**Event:**  Close up to one of bioms
-**Reward:** See the animated life inside it (walking between house, birds are flying in trees etc.)
+- **Event:**  Close up to one of bioms
+- **Reward:** See the animated life inside it (walking between house, birds are flying in trees etc.)
 
 ## Punishments
 Event | Punishment &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
@@ -227,8 +227,8 @@ Put railroad/river tile | Unable to rotate tile in a position, where the railroa
 Group more elements then quest requires | Fail quest, don't get any additional tiles 
 
 ## Custom punishment 
-**Event:** Fail the quest 
-**Punishment:** Throw a dull sound effect
+- **Event:** Fail the quest 
+- **Punishment:** Throw a dull sound effect
 
 # Civilization VI
 ## Rewards
@@ -239,8 +239,8 @@ View other civilization territory | Change soundtrack
 Enter Dark Ages | Access Dark Ages social policies
 
 ## Custom reward
-**Event:**  Build a city near fresh water 
-**Reward:** The sound of splashing water/flowing river + throw short house icon animation with a size modificator +3
+- **Event:**  Build a city near fresh water 
+- **Reward:** The sound of splashing water/flowing river + throw short house icon animation with a size modificator +3
 
 ## Punishments 
 Event | Punishment &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
@@ -250,8 +250,8 @@ Occupy the city | City has production and other resources penalties. Population 
 Move a catapult | The catapult can't attack this turn, unless its maximum Movement is 3 or more 
 
 ## Custom punishment
-**Event:** Loose influence domination in city-state
-**Punishment:** Informing read circle appears in the right bottom corner of the screen 
+- **Event:** Loose influence domination in city-state
+- **Punishment:** Informing read circle appears in the right bottom corner of the screen 
 
 # The Witcher 3
 ## Rewards
@@ -262,8 +262,8 @@ Potion Toxicity is above 0 and Frenzy skill is learned | Time automatically slow
 Fight a new monster | Get information about it in your bestiary
 
 ## Custom reward
-**Event:**  Complete all quests from the quest board
-**Reward:** Geralt becomes a local hero in a region, where board is located. Common folks throw some friendly lines, when he's around
+- **Event:**  Complete all quests from the quest board
+- **Reward:** Geralt becomes a local hero in a region, where board is located. Common folks throw some friendly lines, when he's around
 
 ## Punishments 
 Event | Punishment &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
@@ -273,8 +273,8 @@ Kill in combat the cursed werewolf in the garden | Werewolf reappears after some
 Free the Tree Spirit / Kill the Tree Spirit | Bad ending for Barron’s quest / Death of the children of the bog 
 
 ## Custom punishment
-**Event:** Ciri and Geralt start the fight with Crones
-**Punishment:** In the beginning of the fight Crones throw prepared surprise spell in Ciri, which states new rules for this boss fight. Cirri is dizzy and the vision on the edges of the screen is blurred. Also the dash ability has shorter distance 
+- **Event:** Ciri and Geralt start the fight with Crones
+- **Punishment:** In the beginning of the fight Crones throw prepared surprise spell in Ciri, which states new rules for this boss fight. Cirri is dizzy and the vision on the edges of the screen is blurred. Also the dash ability has shorter distance 
 
 # Skyrim
 ## Rewards
@@ -287,8 +287,8 @@ Enemy steps into a trap (e.g. swinging blades) | Enemy is affected by the trap a
 Escape from Helgen with Hadvar/Ralof | Get a bed in their houses
 
 ## Custom reward
-**Event:**  Complete the Bards Colleague quest line 
-**Reward:** Get verses for a few songs, which are unknown to any other bard in taverns of Skyrim. Opens new dialogue options with those bards, where player can ask them to sing those new songs and they will. 
+- **Event:**  Complete the Bards Colleague quest line 
+- **Reward:** Get verses for a few songs, which are unknown to any other bard in taverns of Skyrim. Opens new dialogue options with those bards, where player can ask them to sing those new songs and they will. 
 
 ## Punishments 
 Event | Punishment &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
@@ -300,8 +300,8 @@ Act mean or uncanny to some NPC (steal their goods from, repeatedly trespass the
 Use any dragon shout in front of a guard. | Guard speaks the line: "I need to ask you to stop. That... shouting... is making people nervous."
 
 ## Custom punishment
-**Event:** Lower a health of draugr enemy with Deathlord rank or higher
-**Punishment:** Draugr's attack and movement speed increases
+- **Event:** Lower a health of draugr enemy with Deathlord rank or higher
+- **Punishment:** Draugr's attack and movement speed increases
 
 # The Elder Scrolls: Online
 ### Rewards
@@ -314,8 +314,8 @@ Hit level 50 | Unlock Veteran combat and access to Veteran difficulty mode in du
 Kill an enemy affected by a Soul Trap | Fill a soul crystal
 
 ## Custom reward
-**Event:**  Speak with an inn keeper NPC
-**Reward:** Once in 8 or so hours they reveal a location of hidden collectible in local area (shards, lore book, points of interest etc.)
+- **Event:**  Speak with an inn keeper NPC
+- **Reward:** Once in 8 or so hours they reveal a location of hidden collectible in local area (shards, lore book, points of interest etc.)
 
 ## Punishments 
 Event | Punishment &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
@@ -325,8 +325,8 @@ Taunt an enemy | Another player can’t taunt it for the next 15 seconds
 Get caught by the guard | Loose all stolen items 
 
 ## Custom punishment
-**Event:** Summoned creature dies
-**Punishment:** Play a distinctive the sound of magical banishment
+- **Event:** Summoned creature dies
+- **Punishment:** Play a distinctive the sound of magical banishment
 
 # Fallout: New Vegas
 ## Rewards
@@ -337,8 +337,8 @@ Use stealth-boy | Become invisible for enemies NPC’s
 Complete NCR, Meyer or Prim quests | Assign one those as sheriff in Primm
 
 ## Custom reward
-**Event:**  Leave Goodsprings
-**Reward:** On the pip-boy's radio catch an unknown radio frequency. There player hears an NCR solders dialogue about the hostage situation in a town south from Goodsprings 
+- **Event:**  Leave Goodsprings
+- **Reward:** On the pip-boy's radio catch an unknown radio frequency. There player hears an NCR solders dialogue about the hostage situation in a town south from Goodsprings 
 
 ## Punishments 
 Event | Punishment &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
@@ -348,20 +348,20 @@ Kill the quest giver | Fail their quest
 ”Arizona Killer” quest. Player alerts the crowd during president’s speech | The president is escorted away from the damage 
 
 ## Custom punishment
-**Event:** Leave a computer while hacking (some unsuccessful attempts were made)
-**Punishment:** When player backs to hacking, the mini-game reopens in the same state it was left before
+- **Event:** Leave a computer while hacking (some unsuccessful attempts were made)
+- **Punishment:** When player backs to hacking, the mini-game reopens in the same state it was left before
 
 # Pillars of Eternity
-### Rewards
+## Rewards
 Event | Reward &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 --- | ---
 Nearly finish Act I of the game, by killing Maerwald | Become the master of Stronghold  
 Use scout mode | See enemies before they see you
 Take a rest | Recover spell slots
 
-### Custom reward
-**Event:** Chanter attains a new phrase
-**Reward:** A striking VFX appears around the chanter, signalizing about new phrase tick. The more phrases are attained, the more powerful visuals effect appear. 
+## Custom reward
+- **Event:** Chanter attains a new phrase
+- **Reward:** A striking VFX appears around the chanter, signalizing about new phrase tick. The more phrases are attained, the more powerful visuals effect appear. 
 
 ## Punishments 
 Event | Punishment &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
@@ -371,8 +371,8 @@ Jump into the pit on  the Burial Isle | Start the endgame quest with no non-met
  Explore dangerous areas without scouting mode | Low vision radius + strategically placed enemies = battle starts at the same time as you see an enemy 
 
 ## Custom punishment
-**Event:** An enemy succeeds on saving throw
-**Punishment:** A magic half-transparent dome appears above the enemy for a moment with distinctive SFX. Much like a magic armor FX in Divinity: OS 2
+- **Event:** An enemy succeeds on saving throw
+- **Punishment:** A magic half-transparent dome appears above the enemy for a moment with distinctive SFX. Much like a magic armor FX in Divinity: OS 2
 
 # Dragon Age: Origins
 ## Rewards
@@ -383,8 +383,8 @@ Combine right magic spells | Cast new combo-spell  (e.g. Spell Might + Blizzard
 Defeat dreaming templar in the Fade | Learn to pass through fire safely with Burning Man ability. Also get access to its combat abilities
 
 ## Custom reward
-**Event:** Casting Taunt
-**Reward:**  Taunted enemies resonate with an aura VFX similar to AOE effect coming from a caster
+- **Event:** Casting Taunt
+- **Reward:**  Taunted enemies resonate with an aura VFX similar to AOE effect coming from a caster
 
 ## Punishments 
 Event | Punishment &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
@@ -394,6 +394,6 @@ Shapeshift in a swarm. One of positive effects: and any damage the shapeshifter 
 Play on difficulty higher than casual | Friendly fire turns on
 
 ## Custom punishment
-**Event:** Heal from lyrium vein
-**Punishment:** Short intoxication animation of a character, grunts and only then a sigh of healing relief (according to DA lore, raw lyrium is dangerous to consume)
+- **Event:** Heal from lyrium vein
+- **Punishment:** Short intoxication animation of a character, grunts and only then a sigh of healing relief (according to DA lore, raw lyrium is dangerous to consume)
 
