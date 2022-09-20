@@ -66,3 +66,17 @@
 - **Halved it?**
 	- It would be hard to process what's going on, when playing the first time
 	- It would make heroes with already fast animations feel static. Their attacks would feel unresponsive
+
+## The Witcher 3 - Sword combat, light attack
+![](gifs/Witcher_3_Combat_Tutorial_Drowners.gif)
+- **How long this animation is?**
+	- Anticipation: little twitch
+	- Attack + follow through: varies from immediate to 0.5 second, depending on the distance to an enemy
+	- Recovery: little twitch
+- **Why did they pick this length?**
+	- To smooth a transaction from attack to movement and another attack. This smooth transaction reinforces the immersion of role-playing a professional monster hunter
+- **What would happen if you doubled the animation length?**
+	- The feel of fighting enemies would feel like a precise work of professional, and more like a struggle of a newbie adventurer 
+- **Halved it?**
+	- The game would have more of a slasher aesthetics, and would feel less natural. You actually can see it in Ciri's gameplay 
+
