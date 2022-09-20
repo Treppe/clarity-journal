@@ -52,3 +52,16 @@
 	- It worth to mention, that there is an option to turn off a battle animation in the game entirely, which is often used by more experienced players. Once the player learns when and why their units might be weaker than proponent's units, there is no reason to be reminded about it (except appreciation of feel the animation create)
 
 
+## Overwatch - Default attacks
+![](https://media.giphy.com/media/3MUZocrnvot2A4L8rW/giphy.gif) ![](https://media.giphy.com/media/RyBYgQD0nQbb154czF/giphy.gif)
+- **How long this animation is?**
+	- All heroes attack almost immediately with a twitch animation
+	- The longest it can take is about half a second for heavy heroes (e.g. Reinhardt , Roadhog) attacks
+- **Why did they pick this length?**
+	- It leads to more dynamic gameplay, which maximizes player's decision per time metric
+	- It sells the high-tech aesthetic of the Overwatch world
+- **What would happen if you doubled the animation length?**
+	- It would lead to more sneaky and strategic gameplay, instead of upfront confrontation, that Overwatch now have  
+- **Halved it?**
+	- It would be hard to process what's going on, when playing the first time
+	- It would make heroes with already fast animations feel static. Their attacks would feel unresponsive
