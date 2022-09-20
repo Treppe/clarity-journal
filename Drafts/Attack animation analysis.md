@@ -36,4 +36,19 @@
 - **Halved it?**
 	- Characters would feel less physique and alive. They would feel less like characters and more like mechanical strategy units. 
 
+## Civilization VI - Melee units attack 
+![](https://media.giphy.com/media/YDy2lWCNKUA5W8O3xs/giphy.gif)
+- **How long this animation is?**
+	- Anticipation: almost immediate
+	- Attack + follow through:  about 3 seconds
+	- Recovery: about 2 seconds
+- **Why did they pick this length?**
+	- There is no need in long anticipation because an attack is proactive choice in the game. Even before animation starts the game already told the player through UI, that they are about to attack
+	- An attack and recovery of attack are emphasized with long times frames. The length is used to clearly show the difference (or a lack of it) of armies power level
+- **What would happen if you doubled the animation length?**
+	- Battles would feel more epic than they need to be. It would be cool for historic game to show 2 armies are crushing into each other and having a 6 seconds of very detailed fight, but it also would get annoying pretty fast. 
+- **Halved it?**
+	- The game would not be able to clearly communicate to a player a power difference between armies.
+	- It worth to mention, that there is an option to turn off a battle animation in the game entirely, which is often used by more experienced players. Once the player learns when and why their units might be weaker than proponent's units, there is no reason to be reminded about it (except appreciation of feel the animation create)
+
 
