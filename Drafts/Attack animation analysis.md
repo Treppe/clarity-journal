@@ -38,7 +38,7 @@
 
 
 ## Civilization VI - Melee units attack 
-<img src="/gifs/10_Minutes_of_War_and_Combat__Civilization_6.gif">
+![](gifs/10_Minutes_of_War_and_Combat__Civilization_6.gif)
 - **How long this animation is?**
 	- Anticipation: almost immediate
 	- Attack + follow through:  about 3 seconds
