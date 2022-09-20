@@ -36,8 +36,8 @@
 - **Halved it?**
 	- Characters would feel less physique and alive. They would feel less like characters and more like mechanical strategy units. 
 
-## Civilization VI - Melee units attack 
-![](https://media.giphy.com/media/YDy2lWCNKUA5W8O3xs/giphy.gif)
+## Civilization VI - Melee units attack
+![](https://media.giphy.com/media/yqqtg3Pv65yYO2sU2W/giphy.gif](https://media.giphy.com/media/YDy2lWCNKUA5W8O3xs/giphy.gif)
 - **How long this animation is?**
 	- Anticipation: almost immediate
 	- Attack + follow through:  about 3 seconds
